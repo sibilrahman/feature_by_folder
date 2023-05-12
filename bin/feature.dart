@@ -1,5 +1,3 @@
-import 'dart:io';
-
 import 'package:args/args.dart';
 import 'package:feature/src/watcher/create_template.dart';
 import 'package:feature/src/watcher/failures_impl.dart';
