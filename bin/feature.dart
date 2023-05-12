@@ -1,6 +1,6 @@
 import 'package:args/args.dart';
-import 'package:feature/src/watcher/create_template.dart';
-import 'package:feature/src/watcher/failures_impl.dart';
+import 'package:feature_by_folder/src/watcher/create_template.dart';
+import 'package:feature_by_folder/src/watcher/failures_impl.dart';
 
 void main(List<String> arguments) {
   final parser = ArgParser();

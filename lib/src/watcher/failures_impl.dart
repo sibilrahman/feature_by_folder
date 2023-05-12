@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:feature/src/initialize/failures.dart';
+import 'package:feature_by_folder/src/initialize/failures.dart';
 
 class FailuresImpl extends Failures {
   ///
