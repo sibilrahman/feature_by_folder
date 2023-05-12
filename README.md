@@ -1,5 +1,5 @@
 # feature
-###feature_by_folder
+### feature_by_folder
 
 Short description of your package goes here.
 
