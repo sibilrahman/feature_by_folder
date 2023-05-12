@@ -4,7 +4,6 @@
 ### Changed
 - Package name
 - file name
-- (change version)
 
 ### Fixed
 - Command
