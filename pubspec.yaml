@@ -1,6 +1,6 @@
 name: feature_by_folder
-description: https://github.com/sibilrahman/feature/blob/main/README.md
-version: 0.0.1
+description: This is a package that helps you create a `feature-by-folder` structure for organizing code and resources in a Flutter app.
+version: 0.0.3
 homepage: https://github.com/sibilrahman/feature.git
 
 environment:
