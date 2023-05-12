@@ -3,7 +3,7 @@
 
 This is a package that helps you create a `feature-by-folder` structure for organizing code and resources in a Flutter app.
 
-[![Pub Version](https://img.shields.io/pub/v/package_name.svg)](<pub package link>)
+[![Pub Version](https://img.shields.io/pub/v/package_name.svg)](https://pub.dev/packages/feature_by_folder)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-flutter%20%7C%20dart-lightgrey.svg)](https://flutter.dev/)
 

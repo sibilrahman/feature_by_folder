@@ -1,10 +1,10 @@
 import 'dart:io';
 
-import 'package:feature/src/initialize/template.dart';
-import 'package:feature/src/watcher/failures_impl.dart';
+import 'package:feature_by_folder/src/initialize/template.dart';
 
 import '../utils/directories.dart';
 import '../utils/path.dart';
+import 'failures_impl.dart';
 
 class CreateTemplate extends Template {
   ///
