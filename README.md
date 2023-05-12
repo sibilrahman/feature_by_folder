@@ -35,7 +35,7 @@ dev_dependencies:
 
 
 ### > Create New Feature:
-- Create to new `feature` directory.
+- Create to new `feature` directory.<br>
 `flutter pub run feature create <your_feature_name>`
 
 
