@@ -1,7 +1,7 @@
 # feature
 ### feature_by_folder
 
-This is a package that helps you create a feature-by-folder structure for organizing code and resources in a Flutter app.
+This is a package that helps you create a `feature-by-folder` structure for organizing code and resources in a Flutter app.
 
 [![Pub Version](https://img.shields.io/pub/v/package_name.svg)](<pub package link>)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
