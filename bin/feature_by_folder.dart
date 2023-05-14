@@ -1,12 +1,19 @@
-import 'package:args/args.dart';
+import 'package:args/args.dart' as args;
 import 'package:feature_by_folder/src/watcher/create_template.dart';
 import 'package:feature_by_folder/src/watcher/failures_impl.dart';
 
 void main(List<String> arguments) {
-  final parser = ArgParser();
+  final parser = args.ArgParser();
 
   parser.addCommand('start');
-  parser.addCommand('create');
+  parser.addCommand(
+    'create',
+  );
+
+  //
+  //
+  /// (Feature)
+  // parser.addCommand('-c folder');
 
   final argResults = parser.parse(arguments);
   final command = argResults.command;
