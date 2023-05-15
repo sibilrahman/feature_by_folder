@@ -1,1 +1,1 @@
-library feature_by_folder;
+library f;

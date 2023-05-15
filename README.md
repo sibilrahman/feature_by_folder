@@ -1,5 +1,4 @@
-# feature
-### feature_by_folder
+# feature_by_folder
 
 This is a package that helps you create a `feature-by-folder` structure for organizing code and resources in a Flutter app.
 
@@ -33,19 +32,19 @@ dev_dependencies:
 Create to `screens`, `const`, `utils`, `models`, `controllers`, and `services` directories.
 <br>
 
-`flutter pub run feature_by_folder start`
+`dart pub run f start`
 
 
 ### > Create New Feature:
 Create to new `feature` directory.
 <br>
 
-`flutter pub run feature_by_folder create <your_feature_name>`
+`dart pub run f create <your_feature_name>`
 
 
 
 
-## Project Structure
+## Folder Structure
 
 This is a package that helps you create a feature-by-folder structure for organizing code and resources in a Flutter app:
 
