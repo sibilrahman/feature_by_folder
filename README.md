@@ -33,14 +33,14 @@ dev_dependencies:
 Create to `screens`, `const`, `utils`, `models`, `controllers`, and `services` directories.
 <br>
 
-`flutter pub run feature_by_folder start`
+`flutter pub run feature start`
 
 
 ### > Create New Feature:
 Create to new `feature` directory.
 <br>
 
-`flutter pub run feature_by_folder create <your_feature_name>`
+`flutter pub run feature create <your_feature_name>`
 
 
 
